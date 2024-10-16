@@ -1,0 +1,11 @@
+#npm lock
+.package-lock.json
+
+# Dependency directories
+node_modules/
+
+# lint cache
+.eslintcache
+
+# config
+config/
